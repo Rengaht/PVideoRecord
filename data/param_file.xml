@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PARAM>
+  <OUTPUT_PATH>data\output\</OUTPUT_PATH>
+  <OUTPUT_TITLE>video_</OUTPUT_TITLE>
+  <MASK_X>303.0</MASK_X>
+  <MASK_Y>0.0</MASK_Y>
+  <MASK_WIDTH>720.0</MASK_WIDTH>
+  <MASK_HEIGHT>720.0</MASK_HEIGHT>
+  <SERVER_URL>mmlab.bremennetwork.tw</SERVER_URL>
+  <SERVER_ID>mmlabnetwork</SERVER_ID>
+  <SERVER_PWD>fAg5h@j</SERVER_PWD>
+  <SERVER_FOLDER>WarTown/</SERVER_FOLDER>
+  <QRCODE_ORDER_FILE>C:\Users\reng.tsai\Documents\Processing\PVideoRecord\output\qrcode\qrorder.txt</QRCODE_ORDER_FILE>
+  <SHARE_URL>mmlab.bremennetwork.tw/Share/index.php?vid=</SHARE_URL>
+  <FFMPEG_PATH>C:\ffmpeg\bin\ffmpeg.exe</FFMPEG_PATH>
+  <OSC_PORT_NUM>12000</OSC_PORT_NUM>
+  <OSC_CLIENT_IP_1>127.0.0.1</OSC_CLIENT_IP_1>
+  <OSC_CLIENT_IP_2>127.0.0.1</OSC_CLIENT_IP_2>
+  <OSC_CLIENT_PORT_1>25000</OSC_CLIENT_PORT_1>
+  <OSC_CLIENT_PORT_2>25000</OSC_CLIENT_PORT_2>
+</PARAM>
